@@ -152,10 +152,12 @@ button {
     column-gap: 0.5rem;
     font-weight: var(--font-bold);
     color: white;
+    font-size: 1.5rem;
 }
 
 .nav__logo-img {
-    width: 0.75rem;
+    width: 1rem;
+    /* font-size: 1.5rem; */
 }
 
 .nav__toogle {
